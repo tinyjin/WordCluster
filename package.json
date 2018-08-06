@@ -1,5 +1,5 @@
 {
-  "name": "WordCluster",
+  "name": "wordcluster",
   "version": "1.0.0",
   "description": "The simple cluster based on strings.",
   "main": "index.js",
